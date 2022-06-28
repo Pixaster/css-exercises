@@ -1,4 +1,6 @@
 .external {
-    font-weight: lighter;
-    margin: 2rem;
+    font-size: 32px;
+    background-color: red;
+    color: white;
+    text-align: center;
 }
